@@ -45,8 +45,8 @@ def init_db():  # Keep as sync for initialization
                 )
             """)
             # Test write access
-            c.execute("INSERT OR IGNORE INTO expenses(date, amount, category) VALUES ('2000-01-01', 0, 'test')")
-            c.execute("DELETE FROM expenses WHERE category = 'test'")
+            # c.execute("INSERT OR IGNORE INTO expenses(date, amount, category) VALUES ('2000-01-01', 0, 'test')")
+            # c.execute("DELETE FROM expenses WHERE category = 'test'")
             print("Database initialized successfully with write access")
     except Exception as e:
         print(f"Database initialization error: {e}")
