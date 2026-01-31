@@ -1,0 +1,172 @@
+{
+    "food":[
+        "groceries",
+        "restaurants",
+        "cafes",
+        "fast food",
+        "snacks",
+        "beverages",
+        "meal delivery",
+        "bakeries",
+        "food trucks",
+        "farmers markets",
+        "other"
+
+    ],
+    "electronics":[
+        "phones",
+        "laptops",
+        "tablets",
+        "audio & video",
+        "wearables",
+        "gaming",
+        "smart home",
+        "accessories",
+        "repairs"
+    ],
+    "clothing":[
+        "tops",
+        "bottoms",
+        "footwear",
+        "outerwear",
+        "activewear",
+        "formalwear",
+        "undergarments",
+        "accessories",
+        "kids"
+    ],
+    "furniture":[
+        "living room",
+        "bedroom",
+        "dining",
+        "office",
+        "outdoor",
+        "storage",
+        "decor"
+    ],
+    "toys":[
+        "action figures",
+        "board games",
+        "puzzles",
+        "dolls",
+        "building sets",
+        "electronic toys",
+        "educational",
+        "outdoor play"
+    ],
+    "books":[
+        "fiction",
+        "non-fiction",
+        "textbooks",
+        "children's books",
+        "comics & graphic novels",
+        "audiobooks",
+        "ebooks"
+    ],
+    "sports":[
+        "equipment",
+        "apparel",
+        "footwear",
+        "gym memberships",
+        "training & coaching",
+        "outdoor gear"
+    ],
+    "education":[
+        "courses",
+        "tuition",
+        "certifications",
+        "supplies",
+        "online learning",
+        "workshops"
+    ],
+    "health":[
+        "doctor visits",
+        "pharmacy",
+        "insurance premiums",
+        "dental",
+        "vision",
+        "lab tests",
+        "therapy",
+        "medical devices"
+    ],
+    "beauty":[
+        "skincare",
+        "haircare",
+        "cosmetics",
+        "fragrances",
+        "spa & salon",
+        "grooming tools",
+        "nails"
+    ],
+    "transportaton":[
+        "fuel",
+        "public transit",
+        "ridesharing",
+        "bus_ride",
+        "train_ride",
+        "airfare",
+        "car_ride",
+        "vehicle maintenance",
+        "tolls",
+        "parking",
+        "other"
+
+    ],
+    "shopping":[
+        "apparel",
+        "electronics",
+        "home goods",
+        "gifts",
+        "online orders",
+        "accessories"
+    ],
+    "subscriptions":[
+        "video streaming",
+        "music",
+        "news & magazines",
+        "software",
+        "cloud storage",
+        "subscription boxes"
+    ],
+    "entertainment":[
+        "movies",
+        "concerts",
+        "events & shows",
+        "gaming",
+        "hobbies",
+        "amusement parks"
+    ],
+    "pets":[
+        "food",
+        "vet care",
+        "grooming",
+        "supplies",
+        "toys",
+        "boarding & sitting"
+    ],
+    "schoool fees":[
+        "tuition",
+        "uniforms",
+        "books & supplies",
+        "transportation",
+        "exam fees",
+        "activities"
+    ],
+    "gifts":[
+        "birthdays",
+        "holidays",
+        "weddings",
+        "anniversaries",
+        "charity",
+        "cards & wrapping"
+    ],
+    "personal care":[
+        "haircuts",
+        "toiletries",
+        "hygiene",
+        "cosmetics",
+        "self-care",
+        "dental care",
+        "health products"
+    ]
+}
